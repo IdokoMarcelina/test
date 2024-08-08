@@ -1,0 +1,56 @@
+.parent{
+    width: 100%;
+    background-color: blue;
+    position: relative;
+    height: 400px;
+    
+}
+
+.one{
+    background-color: yellow;
+    height: 70px;
+    width: 100px;
+    position: absolute;
+    top: 0%;
+    
+  
+}
+.two{
+    background-color: green;
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    bottom: 0%;
+ 
+
+}
+.three{
+    background-color: hotpink;
+    height: 40px;
+    width: 100px;
+    position: absolute;
+    left: 48%;
+    top: 200px;
+   
+
+}
+
+.four{
+    background-color: gray;
+    height: 40px;
+    position: absolute;
+    top: 0%;
+    right: 10px;
+    width: 100px;
+ 
+
+}
+
+.five{
+    background-color: purple;
+    height: 40px;
+    position: absolute;
+    top: 360px;
+    right: 10px;
+    width: 100px;
+}

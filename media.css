@@ -1,0 +1,37 @@
+.p1{
+    color: orange;
+}
+
+.mother{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+.mother p{
+    color: white;
+}
+
+.first-ancho a{
+    color: blueviolet;
+}
+
+.first-ancho a:hover{
+    color: aqua;
+}
+
+.another-ancho #one{
+    color: hotpink;
+}
+.another-ancho #two{
+    color: green;
+}
+
+
+.another-ancho #one:hover{
+color: blue;
+}
+
+.another-ancho #two:hover{
+    color: red;
+    }
